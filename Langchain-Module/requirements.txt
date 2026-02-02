@@ -2,4 +2,3 @@ openai
 python-dotenv
 ipykernel
 langchain==0.2.8
-langchain-openai
