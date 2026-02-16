@@ -1,0 +1,5 @@
+pinecone
+python-dotenv
+ipykernel
+datasets
+sentence-transformers
