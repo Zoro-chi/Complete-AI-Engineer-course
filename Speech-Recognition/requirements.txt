@@ -1,0 +1,8 @@
+ipykernel
+librosa
+SpeechRecognition
+jiwer
+matplotlib
+gtts
+torchvision
+openai-whisper
